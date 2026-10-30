@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+*.rar
+*.dbf
+*.zip
+*.tar.gz
+data/raw/
+data/processed/
+data/archives/
+.DS_Store
+Thumbs.db
